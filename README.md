@@ -4,8 +4,8 @@
 # 🍽️ L'Essence Gastronomique
 ### *Where Culinary Art Meets Artificial Intelligence*
 
-[![Owner](https://img.shields.io/badge/Owner-khdxsohee-amber?style=for-the-badge&logo=github)](https://github.com/khdxsohee)
-[![Repo](https://img.shields.io/badge/Repository-Restaurant--Landingpage--Lessence-black?style=for-the-badge&logo=github)](https://github.com/khdxsohee/Restaurant-Landingpage-Lessence)
+[![Owner](https://img.shields.io/badge/Owner-farhan-swe-amber?style=for-the-badge&logo=github)](https://github.com/farhan-swe)
+[![Repo](https://img.shields.io/badge/Repository-Restaurant--Landingpage--Lessence-black?style=for-the-badge&logo=github)](https://github.com/farhan-swe/Restaurant-Landingpage-Lessence)
 [![Tech](https://img.shields.io/badge/Built%20With-React%20%26%20Tailwind-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![AI](https://img.shields.io/badge/Powered%20By-Google%20Gemini-orange?style=for-the-badge&logo=googlegemini)](https://ai.google.dev/)
 
@@ -83,7 +83,7 @@ The **AI Sommelier** is a specialized integration of the `@google/genai` SDK. It
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/khdxsohee/Restaurant-Landingpage-Lessence.git
+   git clone https://github.com/farhan-swe/Restaurant-Landingpage-Lessence.git
    ```
 
 2. **Set up Environment Variables:**
@@ -105,9 +105,9 @@ The **AI Sommelier** is a specialized integration of the `@google/genai` SDK. It
 
 <div align="center">
 
-**Project Lead:** `khdxsohee`
+**Project Lead:** `farhan-swe`
 
-[![Follow on GitHub](https://img.shields.io/github/followers/khdxsohee?label=Follow%20%40khdxsohee&style=social)](https://github.com/khdxsohee)
+[![Follow on GitHub](https://img.shields.io/github/followers/farhan-swe?label=Follow%20%40farhan-swe&style=social)](https://github.com/farhan-swe)
 
 </div>
 
